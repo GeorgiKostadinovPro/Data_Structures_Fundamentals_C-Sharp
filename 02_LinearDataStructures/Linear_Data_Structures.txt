@@ -1,0 +1,6 @@
+Linear Data Structures
+
+• Linear Data Structures;
+• Dynamic Arays;
+• Queues;
+• Stack.
