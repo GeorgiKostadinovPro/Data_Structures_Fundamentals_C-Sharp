@@ -1,0 +1,5 @@
+Heaps, BST
+
+• Min and Max Heaps;
+• Binary Search Trees;
+• Balanced Trees.
