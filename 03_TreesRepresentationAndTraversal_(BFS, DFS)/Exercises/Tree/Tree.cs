@@ -9,6 +9,7 @@
     public class Tree<T> : IAbstractTree<T>
     {
         private ICollection<Tree<T>> children;
+        
         public Tree(T key, params Tree<T>[] children)
         {
             this.Key = key;
